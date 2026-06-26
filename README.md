@@ -16,11 +16,11 @@ The skill is designed to keep three evidence roles separate:
 - Discussion claim calibration without unsupported experimental overclaiming.
 - Methods checklists for reproducible ML, screening, and quantum-mechanical workflows.
 - Figure narrative planning for computational materials discovery manuscripts.
-- Submission-readiness audits against the official `npj Computational Materials` submission guidelines.
+- Submission-readiness audits against official `npj Computational Materials` content-type, submission, reporting, figure, data/code, and editorial-policy requirements.
 
 ## Official-rule coverage
 
-The skill includes public, paraphrased checklists derived from the official Nature `npj Computational Materials` author guidance. These checklists cover manuscript format, cover letters, Methods, references, figure legends, Supplementary Information, Data Availability, Code availability, statistics and reproducibility, chemical characterization, computational-result reporting, and LLM-use disclosure.
+The skill includes public, paraphrased checklists derived from official Nature `npj Computational Materials` author-facing pages. These checklists cover Aims & Scope, content types, manuscript format, cover letters, Methods, references, figure legends, tables, Supplementary Information, Data Availability, Code availability, statistics and reproducibility, chemical characterization, computational-result reporting, image integrity, authorship, competing interests, acknowledgements, plagiarism/duplicate-publication policy, and AI/LLM-use disclosure.
 
 ## Current manuscript logic
 

@@ -1,6 +1,6 @@
 ---
 name: npj-writing
-description: "NPJ Computational Materials writing and revision guidance for materials-informatics, machine-learning materials discovery, high-throughput screening, applicability-domain/OOD validation, and 2PI photoinitiator manuscripts. Use when drafting, restructuring, polishing, or auditing manuscript sections, cover letters, Methods, figures, supplementary information, data/code availability, statistics, computational reporting, or submission readiness."
+description: "NPJ Computational Materials writing and revision guidance for materials-informatics, machine-learning materials discovery, high-throughput screening, applicability-domain/OOD validation, and 2PI photoinitiator manuscripts. Use when drafting, restructuring, polishing, reviewing, or submission-auditing title, abstract, introduction, results, discussion, methods, cover letters, references, figures, tables, supplementary information, data/code availability, statistics, chemical characterization, computational reporting, LLM disclosure, or journal-fit positioning against official NPJ rules and an npj Computational Materials-style corpus."
 ---
 
 # NPJ Writing
@@ -12,9 +12,10 @@ The skill is about target-journal writing structure and evidentiary scale. It mu
 ## Required Reading Order
 
 1. `references/npj-official-rules-summary.md`
-2. `references/npj-submission-guidelines.md`
-3. `references/writing-playbook.md`
-4. `references/paperlocus-derived-npj-writing-standards.md`
+2. `references/npj-official-content-format-requirements.md`
+3. `references/npj-submission-guidelines.md`
+4. `references/writing-playbook.md`
+5. `references/paperlocus-derived-npj-writing-standards.md`
 
 Official journal rules and current submission guidelines override corpus-derived style observations. Use the corpus to learn argument scale and section rhythm, not to relax submission requirements.
 
@@ -56,6 +57,8 @@ For submission-readiness audits, apply `references/npj-submission-guidelines.md`
 - Computational results include software, input parameters, basis sets, input/output coordinates, optimized-model coordinates, and absolute energies where relative energies are reported.
 - Figures are legible, accessible, permission-clean, numbered in text order, and supplied as complete figure files; legends are no more than 350 words and placed after References.
 
+For non-Article formats, use `references/npj-official-content-format-requirements.md` to switch the limits and section rules for Brief Communication, Comment, Editorial, Matters Arising, Perspective, or Review. Do not apply Article word limits to other content types.
+
 ## Guardrails
 
 - Do not mix style-corpus papers with domain-evidence papers.
@@ -64,4 +67,5 @@ For submission-readiness audits, apply `references/npj-submission-guidelines.md`
 - Do not describe computational candidates as validated leads without synthesis and photopolymerization evidence.
 - Do not leave central Methods details only in Supplementary Information.
 - Do not omit Data Availability, Code availability, author contributions, acknowledgements/funding role, competing interests, or LLM-use disclosure when applicable.
+- Do not assume Article format if the intended content type is Brief Communication, Comment, Editorial, Matters Arising, Perspective, or Review; read the content-type matrix first.
 - Preserve conservative language when evidence is computational-only.

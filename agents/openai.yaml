@@ -1,2 +1,4 @@
-name: npj-writing
-description: NPJ Computational Materials manuscript writing and claim-calibration helper.
+interface:
+  display_name: "NPJ Writing"
+  short_description: "NPJ CM writing and submission-rule audit"
+  default_prompt: "Use $npj-writing to revise this manuscript section against official NPJ rules and journal style."

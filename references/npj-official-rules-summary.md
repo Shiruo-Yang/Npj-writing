@@ -10,6 +10,10 @@ Submission guidelines:
 
 https://www.nature.com/npjcompumats/for-authors-and-referees/submission-guidelines
 
+Expanded operational checklist in this skill:
+
+`references/npj-official-content-format-requirements.md`
+
 ## NPJ Article constraints to enforce
 
 - Article reports substantial original primary research and is peer reviewed.
@@ -27,6 +31,7 @@ https://www.nature.com/npjcompumats/for-authors-and-referees/submission-guidelin
 - References: 60 is a guide, though not strictly enforced.
 - Figure legends: up to 350 words per figure; multi-panel figures should be on one page and labeled `a), b), c)`.
 - Supplementary Information: allowed but not edited by the journal; remove tracked changes and provide as a separate file, preferably PDF.
+- Non-Article content types have different limits; use `npj-official-content-format-requirements.md` before drafting Brief Communications, Comments, Editorials, Matters Arising, Perspectives, or Reviews.
 
 ## Submission guideline gates
 

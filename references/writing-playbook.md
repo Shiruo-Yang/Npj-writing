@@ -91,6 +91,13 @@ Use subheadings and write reproducible details in the main manuscript file:
 
 Treat official submission requirements as hard constraints, not stylistic preferences.
 
+Before polishing style, run an official-rule pass using `npj-official-content-format-requirements.md`:
+
+- confirm the intended content type
+- apply the correct section, word-count and statement requirements
+- verify that Article-only rules are not mistakenly applied to Reviews, Perspectives, Comments, Brief Communications or Matters Arising
+- check Aims & Scope fit before refining the claim language
+
 For a computational materials-discovery Article, check that the manuscript contains:
 
 - a Data Availability section after Methods and before References
