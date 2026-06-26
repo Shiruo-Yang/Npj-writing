@@ -87,3 +87,31 @@ Use subheadings and write reproducible details in the main manuscript file:
 - candidate selection logic and controls
 - code, data, and environment availability
 
+## Submission-readiness moves
+
+Treat official submission requirements as hard constraints, not stylistic preferences.
+
+For a computational materials-discovery Article, check that the manuscript contains:
+
+- a Data Availability section after Methods and before References
+- a Code availability statement when custom code or scripts support central conclusions
+- author contributions using author initials
+- acknowledgements with funding role, or a no-funding statement
+- a competing interests statement, including a no-competing-interests statement when applicable
+- an LLM-use disclosure in Methods or another suitable section when LLMs contributed to writing, analysis, code or decision support
+- main-text Methods sufficient for reproduction, with no Supplementary Methods workaround
+- figure legends after References, in text order, with each legend no more than 350 words
+- supplementary files cited consistently and supplied as one merged PDF where possible
+
+For the current 2PI/QM manuscript, the Methods and availability sections should also cover:
+
+- exact molecule provenance, identifiers, SMILES standardization and deduplication
+- training, validation and scaffold-disjoint outer-test split assignments
+- endpoint definitions, missing-label handling and uncertainty or disagreement calculation
+- ZINC22 snapshot or query/filter definitions
+- mechanism taxonomy rules and explicit exclusion criteria
+- fixed pre-QM portfolio-selection rules
+- Gaussian or other QM software version, functional, basis set, solvent model, charge, spin, convergence policy, failure handling, input/output coordinates and absolute energies when relative energies are reported
+- shareable source tables for screening results, candidates, figure data and QM summaries
+
+For figures, prefer complete figure files with accessible colors, readable sans-serif labels, SI units, defined error bars, and no panel-by-panel uploads for a multi-panel figure.

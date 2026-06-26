@@ -6,6 +6,10 @@ Public entry point:
 
 https://www.nature.com/npjcompumats/content-types
 
+Submission guidelines:
+
+https://www.nature.com/npjcompumats/for-authors-and-referees/submission-guidelines
+
 ## NPJ Article constraints to enforce
 
 - Article reports substantial original primary research and is peer reviewed.
@@ -24,10 +28,21 @@ https://www.nature.com/npjcompumats/content-types
 - Figure legends: up to 350 words per figure; multi-panel figures should be on one page and labeled `a), b), c)`.
 - Supplementary Information: allowed but not edited by the journal; remove tracked changes and provide as a separate file, preferably PDF.
 
+## Submission guideline gates
+
+- Disclose LLM use in Methods or another suitable section when applicable.
+- Include a cover letter with corresponding-author contact information, journal fit, related-work disclosures, conflicts, and reviewer suggestions or exclusions if used.
+- Put Data Availability after Methods and before References.
+- Include Code availability when custom code or scripts are central to the conclusions.
+- Do not use Supplementary Methods; Methods belong in the main manuscript file.
+- Report statistics and reproducibility details when statistical testing is used.
+- Provide source, identity, purity and characterization support for central compounds.
+- For electronic-structure calculations, provide software, input parameters, basis sets, input/output coordinates, optimized coordinates and absolute energies where relative energies are reported.
+- Keep figure files publication-ready, accessible, and numbered in text order; place legends after References.
+
 ## Priority
 
 1. Follow official journal constraints.
 2. Use corpus-derived observations only for writing style and narrative structure.
 3. Use domain literature for scientific and mechanistic facts.
 4. Use ML/QM method literature for methods and discussion positioning.
-
