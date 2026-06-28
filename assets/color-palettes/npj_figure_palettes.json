@@ -1,0 +1,242 @@
+{
+  "version": "2026-06-28",
+  "source": "Color palettes read from user-provided figure-style images in f:/Desktop/Paper/picture on 2026-06-28. Hex values follow printed image labels where available; RGB-only labels were converted to hex.",
+  "usage_rule": "Use these palettes for manuscript figures, workflow diagrams, graphical abstracts, and schematic panels. For final NPJ figures, still check contrast, legibility, colorblind accessibility, and grayscale behavior.",
+  "palettes": [
+    {
+      "id": "r2omics_blue_sky_green_land",
+      "name": "Blue Sky Green Land",
+      "name_zh": "蓝天绿地",
+      "category": "r2omics_ggstyle",
+      "source_images": ["Image #1"],
+      "best_for": ["categorical scatter", "violin plots", "stacked bars", "balanced multi-group panels"],
+      "tone": ["fresh", "blue-red-neutral", "high contrast"],
+      "hex": ["#377EB8", "#B23648", "#DC7369", "#D8EBCD", "#F8EFB5", "#DAD4B9", "#C8CDCF", "#E1F3FA"],
+      "rgb": [[55,126,184], [178,54,72], [220,115,105], [216,235,205], [248,239,181], [218,212,185], [200,205,207], [225,243,250]]
+    },
+    {
+      "id": "r2omics_aqua_flower_shadow",
+      "name": "Aqua Flower Shadow",
+      "name_zh": "水色花影",
+      "category": "r2omics_ggstyle",
+      "source_images": ["Image #2"],
+      "best_for": ["categorical scatter", "cluster annotation", "multi-class distributions"],
+      "tone": ["teal", "purple", "soft contrast"],
+      "hex": ["#3AB5B3", "#7B6C9F", "#A188BD", "#BBC5DE", "#E7777F", "#976793", "#61829D", "#80C66D"],
+      "rgb": [[58,181,179], [123,108,159], [161,136,189], [187,197,222], [231,119,127], [151,103,147], [97,130,157], [128,198,109]]
+    },
+    {
+      "id": "r2omics_summer_beach",
+      "name": "Summer Beach",
+      "name_zh": "夏日海滩",
+      "category": "r2omics_ggstyle",
+      "source_images": ["Image #3"],
+      "best_for": ["warm-to-cool categorical plots", "candidate-family figures", "overview panels"],
+      "tone": ["coral", "sand", "teal-blue"],
+      "hex": ["#FC757B", "#F97F5F", "#FAA26F", "#FDCD94", "#FEE199", "#B0D6A9", "#65BDBA", "#3C9BC9"],
+      "rgb": [[252,117,123], [249,127,95], [250,162,111], [253,205,148], [254,225,153], [176,214,169], [101,189,186], [60,155,201]]
+    },
+    {
+      "id": "r2omics_fresh_holiday",
+      "name": "Fresh Holiday",
+      "name_zh": "清新假日",
+      "category": "r2omics_ggstyle",
+      "source_images": ["Image #4"],
+      "best_for": ["light manuscript figures", "schematic labels", "mixed categorical panels"],
+      "tone": ["green", "sky-blue", "warm accent", "gray-blue"],
+      "hex": ["#6AD1A3", "#7FBDDA", "#BBC7BE", "#FFD47D", "#FFA288", "#C49892", "#929EAB", "#84ADDC"],
+      "rgb": [[106,209,163], [127,189,218], [187,199,190], [255,212,125], [255,162,136], [196,152,146], [146,158,171], [132,173,220]]
+    },
+    {
+      "id": "r2omics_pastel_girl",
+      "name": "Pastel Girl",
+      "name_zh": "粉彩少女",
+      "category": "r2omics_ggstyle",
+      "source_images": ["Image #5"],
+      "best_for": ["soft categorical plots", "supplemental figures", "low-saturation panels"],
+      "tone": ["lavender", "gray", "peach", "rose"],
+      "hex": ["#B6B3D6", "#CFCCE3", "#D5D3DE", "#D5D1D1", "#F6DFD6", "#F8B2A2", "#F1837A", "#E9687A"],
+      "rgb": [[182,179,214], [207,204,227], [213,211,222], [213,209,209], [246,223,214], [248,178,162], [241,131,122], [233,104,122]]
+    },
+    {
+      "id": "r2omics_ocean_breeze",
+      "name": "Ocean Breeze",
+      "name_zh": "海洋清风",
+      "category": "r2omics_ggstyle",
+      "source_images": ["Image #6"],
+      "best_for": ["method workflow plots", "screening funnel figures", "sequential warm-cool panels"],
+      "tone": ["teal", "blue-green", "sand", "orange"],
+      "hex": ["#BFD7D2", "#51999F", "#4198AC", "#7BC0CD", "#DBCB92", "#ECB66C", "#EA9E58", "#ED8D5A"],
+      "rgb": [[191,215,210], [81,153,159], [65,152,172], [123,192,205], [219,203,146], [236,182,108], [234,158,88], [237,141,90]]
+    },
+    {
+      "id": "r2omics_soft_green_forest",
+      "name": "Soft Green Forest",
+      "name_zh": "柔绿森林",
+      "category": "r2omics_ggstyle",
+      "source_images": ["Image #7"],
+      "best_for": ["nature-inspired categorical panels", "screening maps", "mechanism-family overviews"],
+      "tone": ["green", "moss", "earth", "blue-purple accent"],
+      "hex": ["#B8DBB3", "#86BC79", "#71A682", "#81989B", "#D19246", "#B5AF8B", "#7EA4B6", "#4A4F7E"],
+      "rgb": [[184,219,179], [134,188,121], [113,166,130], [129,152,155], [209,146,70], [181,175,139], [126,164,182], [74,79,126]]
+    },
+    {
+      "id": "applied_energy_hydrogen_pipeline",
+      "name": "Applied Energy Hydrogen Pipeline",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #8"],
+      "best_for": ["engineering workflow diagrams", "two-lane comparison diagrams", "orange-blue system schematics"],
+      "tone": ["orange", "blue", "black", "technical"],
+      "hex": ["#FBE5D7", "#E4915D", "#DAE3F3", "#ABBADE", "#F17A28", "#020202", "#1395D9", "#2356B0"],
+      "rgb": [[251,229,215], [228,145,93], [218,227,243], [171,186,222], [241,122,40], [2,2,2], [19,149,217], [35,86,176]]
+    },
+    {
+      "id": "applied_energy_energy_system",
+      "name": "Applied Energy Energy System",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #8"],
+      "best_for": ["energy-system process figures", "software workflow panels", "optimization flowcharts"],
+      "tone": ["orange", "green", "blue", "dark neutral"],
+      "hex": ["#E88C4B", "#262626", "#8BB76C", "#BDD1EA", "#0071BC", "#395EA4"],
+      "rgb": [[232,140,75], [38,38,38], [139,183,108], [189,209,234], [0,113,188], [57,94,164]]
+    },
+    {
+      "id": "applied_energy_virtual_power_plant",
+      "name": "Applied Energy Virtual Power Plant",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #9"],
+      "best_for": ["dense flowcharts", "network diagrams", "multi-agent energy diagrams"],
+      "tone": ["white", "green", "navy", "orange", "yellow", "blue"],
+      "hex": ["#FFFFFF", "#A4CB8B", "#0E387D", "#B15F34", "#3E701B", "#FFC000", "#F19C5F", "#4272C7", "#617BA5", "#F2F2F2", "#C5E0B5", "#BA8600"],
+      "rgb": [[255,255,255], [164,203,139], [14,56,125], [177,95,52], [62,112,27], [255,192,0], [241,156,95], [66,114,199], [97,123,165], [242,242,242], [197,224,181], [186,134,0]]
+    },
+    {
+      "id": "applied_energy_low_carbon_technology",
+      "name": "Applied Energy Low Carbon Technology",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #9"],
+      "best_for": ["policy-model schematics", "scenario comparison panels", "module diagrams"],
+      "tone": ["light blue", "blue", "pink", "lime", "cyan", "cream"],
+      "hex": ["#DBE2F4", "#3E64AD", "#FCCECE", "#F88A88", "#EBFED1", "#78B81A", "#C2EDFD", "#1471AF", "#FEF8D0", "#F3D795"],
+      "rgb": [[219,226,244], [62,100,173], [252,206,206], [248,138,136], [235,254,209], [120,184,26], [194,237,253], [20,113,175], [254,248,208], [243,215,149]]
+    },
+    {
+      "id": "applied_energy_wind_forecasting",
+      "name": "Applied Energy Wind Forecasting",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #10"],
+      "best_for": ["machine-learning pipelines", "training/validation/testing diagrams", "forecasting workflows"],
+      "tone": ["sky blue", "cream", "yellow", "lavender", "green"],
+      "hex": ["#89C3EB", "#FDE9D0", "#FFAF00", "#98B6DC", "#DCC9DC", "#C8E2A1", "#AB87C5", "#FCF4F0", "#E3E6EB", "#B9DBFA", "#FFDF98", "#A7DEC1"],
+      "rgb": [[137,195,235], [253,233,208], [255,175,0], [152,182,220], [220,201,220], [200,226,161], [171,135,197], [252,244,240], [227,230,235], [185,219,250], [255,223,152], [167,222,193]]
+    },
+    {
+      "id": "applied_energy_physical_optimization",
+      "name": "Applied Energy Physical Optimization",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #11"],
+      "best_for": ["optimization algorithms", "Pareto-front workflows", "decision pipeline diagrams"],
+      "tone": ["yellow", "green", "blue", "peach", "gray", "coral"],
+      "hex": ["#FFC000", "#A8D18D", "#9DC3E7", "#F4B184", "#C9C9C9", "#FF7F7E"],
+      "rgb": [[255,192,0], [168,209,141], [157,195,231], [244,177,132], [201,201,201], [255,127,126]]
+    },
+    {
+      "id": "applied_energy_market_rl",
+      "name": "Applied Energy Market Reinforcement Learning",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #11"],
+      "best_for": ["reinforcement-learning diagrams", "market interaction figures", "actor-critic schematics"],
+      "tone": ["deep blue", "green", "ochre", "black", "gray", "pale blue", "yellow"],
+      "hex": ["#1A52B5", "#356A0E", "#B57D0F", "#020202", "#EDEDED", "#DEEAF6", "#FED966", "#C5E0B5"],
+      "rgb": [[26,82,181], [53,106,14], [181,125,15], [2,2,2], [237,237,237], [222,234,246], [254,217,102], [197,224,181]]
+    },
+    {
+      "id": "origin_sustainable_cities_pastel",
+      "name": "Sustainable Cities Pastel",
+      "category": "origin_framework_templates",
+      "source_images": ["Image #12", "Image #18"],
+      "best_for": ["framework diagrams", "methodology panels", "soft publication schematics"],
+      "tone": ["pastel", "cream", "pink", "blue", "mint", "coral"],
+      "hex": ["#F2FDEF", "#E6F2DE", "#E8F4F3", "#CBE7E6", "#F9E4F3", "#FFFCE9", "#FFF0EB"],
+      "rgb": [[242,253,239], [230,242,222], [232,244,243], [203,231,230], [249,228,243], [255,252,233], [255,240,235]],
+      "notes": "Recorded from printed hex labels. Some visible swatches in the image appear more saturated than the printed labels."
+    },
+    {
+      "id": "origin_arxiv_agentswift_pastel",
+      "name": "Arxiv AgentSwift Pastel",
+      "category": "origin_framework_templates",
+      "source_images": ["Image #13", "Image #14"],
+      "best_for": ["AI workflow diagrams", "agent framework schematics", "preprint-style overview panels"],
+      "tone": ["cream", "yellow", "blue", "green", "peach"],
+      "hex": ["#FCE3C1", "#FFE698", "#B4C7E7", "#8FABDD", "#C7D9B5", "#74B273", "#F4B98F"],
+      "rgb": [[252,227,193], [255,230,152], [180,199,231], [143,171,221], [199,217,181], [116,178,115], [244,185,143]]
+    },
+    {
+      "id": "origin_ecological_informatics_pastel",
+      "name": "Ecological Informatics Pastel",
+      "category": "origin_framework_templates",
+      "source_images": ["Image #16", "Image #17"],
+      "best_for": ["materials-screening workflows", "multi-step framework diagrams", "soft graphical abstracts"],
+      "tone": ["pale blue", "mint", "peach", "pink", "cream", "lavender"],
+      "hex": ["#FBECE8", "#E8F4F0", "#E8EFF9", "#ABCAEA", "#D0D5DB", "#EBBBC8", "#E49CB1"],
+      "rgb": [[251,236,232], [232,244,240], [232,239,249], [171,202,234], [208,213,219], [235,187,200], [228,156,177]]
+    },
+    {
+      "id": "origin_applied_energy_hvac_pastel",
+      "name": "Applied Energy HVAC Pastel",
+      "category": "origin_framework_templates",
+      "source_images": ["Image #19"],
+      "best_for": ["control-system schematics", "HVAC/energy workflow diagrams", "soft background blocks"],
+      "tone": ["green", "cream", "blue", "lavender", "coral accent"],
+      "hex": ["#D2E0F7", "#E3ECD7", "#FFE6D7", "#E6B6AC", "#F2E0EC", "#FFF2CD", "#BC7F00"],
+      "rgb": [[210,224,247], [227,236,215], [255,230,215], [230,182,172], [242,224,236], [255,242,205], [188,127,0]],
+      "notes": "Recorded from printed hex labels. The final visible swatch appears coral/red in the supplied image, but the printed label reads #BC7F00."
+    },
+    {
+      "id": "applied_energy_solar_route_main",
+      "name": "Applied Energy Solar Route Main",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #15"],
+      "best_for": ["GIS workflow figures", "factor-screening frameworks", "multi-step evaluation diagrams"],
+      "tone": ["blue", "navy", "peach", "orange", "green", "gold"],
+      "hex": ["#F5F8FD", "#A0C3E9", "#0A285B", "#FFF6F1", "#FFBF93", "#C16421", "#F4F7EE", "#B3D09D", "#547B38", "#FFFAF4", "#FEEAAC", "#BA8517"],
+      "rgb": [[245,248,253], [160,195,233], [10,40,91], [255,246,241], [255,191,147], [193,100,33], [244,247,238], [179,208,157], [84,123,56], [255,250,244], [254,234,172], [186,133,23]]
+    },
+    {
+      "id": "applied_energy_solar_route_font",
+      "name": "Applied Energy Solar Route Font",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #15"],
+      "best_for": ["text accents", "emphasis labels", "legend highlights"],
+      "tone": ["red", "blue", "orange", "green", "purple"],
+      "hex": ["#B60000", "#007FE2", "#F68233", "#2DCA3E", "#8C00A3"],
+      "rgb": [[182,0,0], [0,127,226], [246,130,51], [45,202,62], [140,0,163]]
+    },
+    {
+      "id": "applied_energy_solar_route_arrow",
+      "name": "Applied Energy Solar Route Arrow",
+      "category": "applied_energy_schematic",
+      "source_images": ["Image #15"],
+      "best_for": ["arrow colors", "flow connectors", "process-stage links"],
+      "tone": ["blue", "orange", "green", "yellow"],
+      "hex": ["#66A3DA", "#FFA366", "#93BB78", "#FFD85F"],
+      "rgb": [[102,163,218], [255,163,102], [147,188,120], [255,216,95]]
+    }
+  ],
+  "aliases": {
+    "blue_sky_green_land": "r2omics_blue_sky_green_land",
+    "aqua_flower_shadow": "r2omics_aqua_flower_shadow",
+    "summer_beach": "r2omics_summer_beach",
+    "fresh_holiday": "r2omics_fresh_holiday",
+    "pastel_girl": "r2omics_pastel_girl",
+    "ocean_breeze": "r2omics_ocean_breeze",
+    "soft_green_forest": "r2omics_soft_green_forest",
+    "applied_energy_blue_orange": "applied_energy_hydrogen_pipeline",
+    "sustainable_cities": "origin_sustainable_cities_pastel",
+    "agentswift": "origin_arxiv_agentswift_pastel",
+    "ecological_informatics": "origin_ecological_informatics_pastel",
+    "hvac": "origin_applied_energy_hvac_pastel",
+    "solar_route": "applied_energy_solar_route_main",
+    "applied_energy_solar_route": "applied_energy_solar_route_main"
+  }
+}

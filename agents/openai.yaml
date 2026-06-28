@@ -1,4 +1,4 @@
 interface:
   display_name: "NPJ Writing"
-  short_description: "NPJ CM writing and submission-rule audit"
-  default_prompt: "Use $npj-writing to revise this manuscript section against official NPJ rules and journal style."
+  short_description: "NPJ CM writing, figures, palettes, and submission audit"
+  default_prompt: "Use $npj-writing to revise this manuscript section or figure against official NPJ rules, journal style, and bundled palettes."

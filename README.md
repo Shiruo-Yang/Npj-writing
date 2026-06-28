@@ -16,11 +16,14 @@ The skill is designed to keep three evidence roles separate:
 - Discussion claim calibration without unsupported experimental overclaiming.
 - Methods checklists for reproducible ML, screening, and quantum-mechanical workflows.
 - Figure narrative planning for computational materials discovery manuscripts.
+- Figure color palette selection for statistical plots, workflow diagrams, schematics, and graphical abstracts.
 - Submission-readiness audits against official `npj Computational Materials` content-type, submission, reporting, figure, data/code, and editorial-policy requirements.
 
 ## Official-rule coverage
 
 The skill includes public, paraphrased checklists derived from official Nature `npj Computational Materials` author-facing pages. These checklists cover Aims & Scope, content types, manuscript format, cover letters, Methods, references, figure legends, tables, Supplementary Information, Data Availability, Code availability, statistics and reproducibility, chemical characterization, computational-result reporting, image integrity, authorship, competing interests, acknowledgements, plagiarism/duplicate-publication policy, and AI/LLM-use disclosure.
+
+The skill also bundles reusable figure palettes in `assets/color-palettes/npj_figure_palettes.json`, grouped as R2Omics/ggstyle categorical palettes, Applied Energy schematic palettes, and Origin framework-template palettes.
 
 ## Current manuscript logic
 

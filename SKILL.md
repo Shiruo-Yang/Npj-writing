@@ -1,6 +1,6 @@
 ---
 name: npj-writing
-description: "NPJ Computational Materials writing and revision guidance for materials-informatics, machine-learning materials discovery, high-throughput screening, applicability-domain/OOD validation, and 2PI photoinitiator manuscripts. Use when drafting, restructuring, polishing, reviewing, or submission-auditing title, abstract, introduction, results, discussion, methods, cover letters, references, figures, tables, supplementary information, data/code availability, statistics, chemical characterization, computational reporting, LLM disclosure, or journal-fit positioning against official NPJ rules and an npj Computational Materials-style corpus."
+description: "NPJ Computational Materials writing and revision guidance for materials-informatics, machine-learning materials discovery, high-throughput screening, applicability-domain/OOD validation, and 2PI photoinitiator manuscripts. Use when drafting, restructuring, polishing, reviewing, or submission-auditing title, abstract, introduction, results, discussion, methods, cover letters, references, figures, tables, supplementary information, data/code availability, statistics, chemical characterization, computational reporting, figure color palettes, schematic styling, LLM disclosure, or journal-fit positioning against official NPJ rules and an npj Computational Materials-style corpus."
 ---
 
 # NPJ Writing
@@ -18,6 +18,8 @@ The skill is about target-journal writing structure and evidentiary scale. It mu
 5. `references/paperlocus-derived-npj-writing-standards.md`
 
 Official journal rules and current submission guidelines override corpus-derived style observations. Use the corpus to learn argument scale and section rhythm, not to relax submission requirements.
+
+For figure color selection, plot styling, schematic styling, graphical abstracts, or palette requests, read `references/figure-color-palettes.md` and use `assets/color-palettes/npj_figure_palettes.json`. The helper script `scripts/npj_palette.py` can list or print palettes for Python/R plotting.
 
 ## Workflow
 
@@ -42,6 +44,7 @@ Official journal rules and current submission guidelines override corpus-derived
 - Results: use subheadings and organize by evidence modules.
 - Discussion: no subheadings; do not create separate Limitations or Conclusions sections.
 - Methods: use subheadings and provide reproducible data, model, screening, and QM details in the main manuscript file.
+- Figures: use official NPJ figure rules first, then apply a palette from `figure-color-palettes.md`; check contrast, colorblind accessibility and grayscale legibility before final use.
 
 ## Submission Readiness
 
